@@ -13,6 +13,10 @@ Below are the features:
 To setup backend:
 `gradle bootRun`
 
+In the console, you will be displayed with OAUTH link after the server starts, Open the link in the browser to Give permissions and you are good to go.
+
+POSTMAN api json is exported and added, which can be used for API testing via POSTMAN.
+
 To start UI:
 Navigate to ui folder and execute:
 `npm build`
